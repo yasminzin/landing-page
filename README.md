@@ -32,3 +32,7 @@ All features are usable across modern desktop, tablet, and phone browsers.
 
 ## Languages Used
 HTML, CSS & JS.
+
+## Visit Landing Page
+[Landing Page](https://yasminzin.github.io/landing-page/).
+
