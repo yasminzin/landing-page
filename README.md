@@ -26,7 +26,7 @@ All features are usable across modern desktop, tablet, and phone browsers.
 1. https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page
 2. https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView
 3. https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
-4. css-tricks.com/a-few-functional-uses-for-intersection-observer-to-know-when-an-element-is-in-view/
+4. https://css-tricks.com/a-few-functional-uses-for-intersection-observer-to-know-when-an-element-is-in-view/
 5. https://www.w3schools.com/cssref/css3_pr_mediaquery.asp
 6. https://classroom.udacity.com/nanodegrees/nd001-mena-nfp2/dashboard/overview
 7. https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttribute
