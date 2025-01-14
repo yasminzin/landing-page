@@ -8,10 +8,7 @@ Starter code is taken from Udacity [Landing Page](https://github.com/udacity/fen
 
 
 ## Architecture
-landing-page____css___________styles.css
-            |___index.html
-            |___js___________app.js
-            |___README.md
+```landing-page ├── css │ └── styles.css ├── index.html ├── js │ └── app.js └── README.md```
 
 
 ## Features
